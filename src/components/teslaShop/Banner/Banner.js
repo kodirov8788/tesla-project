@@ -1,8 +1,8 @@
 import React from 'react'
 import './Banner.css'
-import img1 from '../../Images/yerga.jpg'
-import img2 from '../../Images/ayol.jpg'
-import img3 from '../../Images/kids.jpg'
+import img1 from '../../../Images/TeslaShop/yerga.jpg'
+import img2 from '../../../Images/TeslaShop/ayol.jpg'
+import img3 from '../../../Images/TeslaShop/kids.jpg'
 function Banner() {
     return (
         <div className='Ban'>
@@ -13,9 +13,9 @@ function Banner() {
                 <h2>Men's Apparel</h2>
                 <h3>Women's Apparel</h3>
                 <h4>Kids’ Apparel</h4>
-                    <button className='ilya1'>Shop Now</button>
-                    <button className='F2'>Shop Now</button>
-                    <button className='p5'>Shop Now</button>
+                <button className='ilya1'>Shop Now</button>
+                <button className='F2'>Shop Now</button>
+                <button className='p5'>Shop Now</button>
             </div>
         </div>
     )

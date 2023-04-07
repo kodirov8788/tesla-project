@@ -1,8 +1,8 @@
 import React from 'react'
 import './Detalies.css'
-import img1 from '../../Images/tel.jpg'
-import img2 from '../../Images/odam.jpg'
-import img3 from '../../Images/tesla.png'
+import img1 from '../../../Images/TeslaShop/tel.jpg'
+import img2 from '../../../Images/TeslaShop/odam.jpg'
+import img3 from '../../../Images/TeslaShop/tesla.png'
 function Detalies() {
   return (<div className='box'>
 
