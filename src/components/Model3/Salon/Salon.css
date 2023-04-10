@@ -1,0 +1,46 @@
+.Salon {
+    background-image: url("../../../images/model3_rasm/8.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    margin-top: 300px;
+}
+
+.salon_text_icon {
+    color: white;
+    font-size: 20px;
+    margin-left: 950px;
+}
+
+.salon_text_icon .salon_text1 {
+    width: 300px;
+    transform: translateY(50px);
+}
+
+.salon_text_icon .salon_text2 {
+    width: 300px;
+    transform: translateY(80px);
+
+}
+
+.salon_text_icon .salon_text3 {
+    width: 300px;
+    transform: translateY(120px);
+
+}
+/* 2 */
+
+.img{
+    transform: translateY(40px);
+}
+
+.salon_cart_text{
+    transform: translateY(220px);
+    margin-left: 50px;
+}
+.salon_left h2{
+    transform: translateY(20px);
+    font-size: 30px;
+
+}

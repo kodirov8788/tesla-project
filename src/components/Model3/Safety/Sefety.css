@@ -1,0 +1,95 @@
+.seftey_img1 {
+    width: 900px;
+    margin-top: 70px;
+}
+
+.Sefety .box1 {
+    width: 3px;
+    height: 130px;
+    background: #000;
+    transform: translateY(-530px) translateX(450px);
+}
+
+.Sefety .h2:nth-child(1) {
+    color: gray;
+    font-size: 18px;
+    transform: translateY(166px);
+    margin-left: 460px;
+}
+
+/* 2 */
+.Sefety .box2 {
+    width: 3px;
+    height: 160px;
+    background: #000;
+    transform: translateY(-580px) translateX(270px);
+}
+
+.Sefety .h2:nth-child(2) {
+    color: gray;
+    font-size: 18px;
+    transform: translateY(220px);
+    margin-left: 280px;
+
+}
+
+/* 3 */
+.Sefety .box3 {
+    width: 3px;
+    height: 160px;
+    background: #000;
+    transform: translateY(-520px) translateX(480px);
+}
+
+.Sefety .h2:nth-child(3) {
+    color: gray;
+    font-size: 18px;
+    transform: translateY(570px);
+    margin-left: 490px;
+}
+
+.Sefety_text1 {
+    margin-left: 1000px;
+    margin-top: -1070px;
+}
+
+.Sefety_text1 h3 {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(108, 108, 108);
+}
+
+.Sefety_text1 h1 {
+    font-weight: 500;
+}
+
+.Sefety_text1 .box_text1 {
+    width: 300px;
+    margin-top: 20px;
+}
+
+.Sefety_text1 .box_text1 p {
+    font-size: 18px;
+}
+.Sefety_text1 .box_text1 span {
+font-weight: 500;
+}
+
+/* 2 */
+.Sefety_text1 .box_text2 {
+    margin-top: 25px;
+
+}
+
+.Sefety_text1 .box_text2 p {
+    font-size: 18px;
+}
+/* 3 */
+.Sefety_text1 .box_text3 {
+    margin-top: 25px;
+
+}
+
+.Sefety_text1 .box_text3 p {
+    font-size: 18px;
+}

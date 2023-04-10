@@ -1,0 +1,66 @@
+.xavo {
+    background-image: url("../../../images/model3_rasm/4.jpg");
+    background-size: cover;
+    width: 1349px;
+    height: 600px;
+
+}
+
+.xavo_text {
+    padding-top: 454px;
+    color: rgba(255, 255, 255, 0.757);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    width: 1000px;
+
+}
+
+.xavo_text1 {
+    width: 300px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.cart_text {
+    margin-top: 100px;
+}
+
+.cart_text .left {
+    margin-left: 100px;
+}
+
+.cart_text .left h3 {
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.cart_text .left h2 {
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.btn-white {
+    border: 3px solid black;
+    width: 190px;
+    display: flex;
+    height: 40px;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.btn-white:hover {
+background: #000;
+color: white;
+}
+.right{
+    font-size: 18px;
+    width: 650px;
+    margin-left: 600px;
+    margin-top: -150px;
+}

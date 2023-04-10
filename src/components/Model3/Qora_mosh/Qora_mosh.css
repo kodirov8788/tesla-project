@@ -1,0 +1,153 @@
+.Qora_mosh {
+    background: #000;
+    margin-top: 270px;
+}
+
+.mosh_in {
+    width: 700px;
+    margin-top: 100px;
+}
+
+.Qora_text {
+    color: white;
+    margin-left: 800px;
+    height: 250px;
+    transform: translateY(-500px);
+}
+
+.Qora_text h1 {
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Qora_text .Qora_a1 {
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid white;
+    margin-top: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+/* 2 */
+.Qora_text .Qora_a2 {
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid gray;
+    margin-top: -30px;
+    border-radius: 5px;
+    margin-left: 205px;
+    color: white;
+}
+
+/* 3 */
+.Qora_text .Qora_a3 {
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid gray;
+    border-radius: 5px;
+    margin-top: 5px;
+    color: white;
+}
+
+.qora_left hr {
+    margin-top: 20px;
+}
+
+.qora_left p:nth-child(2) {
+    width: 90px;
+    margin-top: 20px;
+}
+
+/* 2 */
+.qora_left p:nth-child(4) {
+    width: 90px;
+    margin-top: 20px;
+}
+
+/* 3 */
+.qora_left p:nth-child(6) {
+    margin-top: 20px;
+}
+
+/* 4 */
+.qora_left p:nth-child(8) {
+    margin-top: 20px;
+}
+
+.qora_left p:nth-child(10) {
+    margin-top: 20px;
+}
+
+/* right */
+.qora_right {
+    margin-left: 250px;
+    margin-top: -440px;
+}
+
+.qora_right hr {
+    margin-top: 20px;
+}
+
+.qora_right p:nth-child(2) {
+    margin-top: 20px;
+}
+
+.qora_right p:nth-child(4) {
+    margin-top: 20px;
+}
+
+.qora_right p:nth-child(6) {
+    margin-top: 20px;
+}
+
+.qora_right p:nth-child(8) {
+    margin-top: 20px;
+}
+
+.qora_right p:nth-child(10) {
+    margin-top: 20px;
+}
+
+.hovera1 {
+    color: white;
+    font-size: 20px;
+    transform: translateY(-50px);
+    margin-left: 550px;
+    border: 3px solid white;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* 2 */
+.hovera2 {
+    color: white;
+    font-size: 20px;
+    transform: translateY(-20px);
+    margin-left: 550px;
+    border: 3px solid rgb(69, 68, 68);
+    background:rgb(69, 68, 68);
+    width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hovera1:hover {
+    background: white;
+    color: #000;
+}

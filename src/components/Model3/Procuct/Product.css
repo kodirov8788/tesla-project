@@ -1,0 +1,49 @@
+.Product {
+    background-image: url("../../../images/model3_rasm/3.jpg");
+    background-size: cover;
+    margin-top: 300px;
+    width: 1349px;
+    height: 570px;
+}
+
+.Product .div_icon2 {
+    padding-top: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Product .div_icon2 .icon_text1 {
+    display: flex;
+    width: 350px;
+}
+
+.icon_text1 p {
+    color: white;
+    text-align: center;
+}
+
+.icon2 {
+    color: white;
+    margin-top: -50px;
+    font-size: 50px;
+    transform: translatex(155px);
+}
+
+.icon_text1 h2 {
+    transform: translateY(-40px) translateX(160px);
+    font-size: 30px;
+    color: white;
+}
+.btn-white1{
+    border: 3px solid black;
+    width: 190px;
+    display: flex;
+    height: 40px;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
